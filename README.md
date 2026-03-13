@@ -44,11 +44,15 @@ Currently studying biomedical informatics and I'm focused on building useful pro
 | Project Three | Sonic mini-game made (seminar - Basics of C# & .NET) | .NET 9.0, C#, Raylib-cs | [Repository](https://github.com/Petrrixx/csharp_game) |
 | Project Four | A game made in python (seminar - UNIX systems) | HTML, TeX, Python | [Repository](https://github.com/Petrrixx/UNIX_game) |
 
-## GitHub stats
+## GitHub stats (2026)
 
 <p>
 	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Petrrixx&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
 	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petrrixx&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
+
+<p>
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Petrrixx&custom_title=Peter%20Bolecek%20GitHub%20Activity%20(2026)&hide_border=true" alt="GitHub activity graph 2026" />
 </p>
 
 ## 2026 goals
