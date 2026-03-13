@@ -47,12 +47,12 @@ Currently studying biomedical informatics and I'm focused on building useful pro
 ## GitHub stats (2026)
 
 <p>
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Petrrixx&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petrrixx&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Petrrixx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&show=prs_merged,prs_merged_percentage,reviews" alt="GitHub stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petrrixx&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p>
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Petrrixx&custom_title=Peter%20Bolecek%20GitHub%20Activity%20(2026)&hide_border=true" alt="GitHub activity graph 2026" />
+	<img height="170" src="https://streak-stats.demolab.com?user=Petrrixx&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 2026 goals
